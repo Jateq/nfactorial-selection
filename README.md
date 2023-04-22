@@ -4,5 +4,7 @@
 
 Created a app to check the quality of drawn circle
 
+SPACE restarts the game 
+
 Note that:
 There's still some errors with percentages.
