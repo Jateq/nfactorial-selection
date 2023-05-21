@@ -1,4 +1,4 @@
-# python-petproject
+# ideal-circle-analyser
 
 ## I bet you can't draw a perfect circle
 
